@@ -4,45 +4,35 @@ role: Phd Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep learning
+  - Set-valued classification
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/garcinc
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://fr.linkedin.com/in/camille-garcin-aa50bb193
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: IMAG
+    url: https://imag.edu.umontpellier.fr/
+  - name: INRIA
+    url: https://www.inria.fr/fr
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Msc in Machine Learning
+      institution: ENS Paris saclay
+      year: 2019
+    - course: Engineering degree
+      institution: Ecole Centrale Paris
+      year: 2019
 email: ""
 superuser: true
 highlight_name: false
 ---
 I am a PhD sutdent under the supervision of Joseph Salmon
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
